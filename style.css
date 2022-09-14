@@ -31,8 +31,8 @@ body{
     border-radius: 50px;
     outline: none;
     margin: auto;
-    background-color: white;
-    font-size: 50px;
+    background-color: #C4B3CA;
+    font-size: 65px;
     font-family: 'Courier New', Courier, monospace;
     letter-spacing: 2px;
     font-style: oblique;
@@ -40,5 +40,5 @@ body{
     display: flex;
     justify-content: right;
     align-items: center;
-    padding-right: 20px;
+    padding: 10px;
 }
